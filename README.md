@@ -1,4 +1,4 @@
-# hyperf-easywechat
+# hyperf-wechat
 
 微信 SDK for Hyperf， 基于 w7corp/easywechat
 
